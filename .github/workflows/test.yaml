@@ -1,3 +1,4 @@
+name: test-ci
 on:
   push:
     branches:
